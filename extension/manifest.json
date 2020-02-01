@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "Forky Slide Scrolling Stopper",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "author": "Andrei Cristian Petcu",
     "homepage_url": "https://github.com/andreicristianpetcu/stop-slide-scrolling",
     "description": "Fork of Owen Mundy's awesome 'Stop Slide Scrolling in Google Presentation'. Removes annoying accidental slide scrolling behavior in Google Drive Presentations. I removed analytics :) Source of the fork is here https://github.com/sneakaway-studio/stop-slide-scrolling",
